@@ -1,0 +1,400 @@
+
+Evaluating models on ./evaluation-2/datasets/subsets/subset_1
+
+Starting optimization for resnet18 on subset_1
+Subset 1, Model resnet18: Best Accuracy = 0.4106
+
+Starting optimization for resnet152 on subset_1
+Subset 1, Model resnet152: Best Accuracy = 0.3250
+
+Starting optimization for vgg11 on subset_1
+Subset 1, Model vgg11: Best Accuracy = 0.4342
+
+Starting optimization for vgg19 on subset_1
+Subset 1, Model vgg19: Best Accuracy = 0.3828
+
+Starting optimization for densenet121 on subset_1
+Subset 1, Model densenet121: Best Accuracy = 0.4569
+
+Starting optimization for densenet161 on subset_1
+Subset 1, Model densenet161: Best Accuracy = 0.4398
+
+Evaluating models on ./evaluation-2/datasets/subsets/subset_2
+
+Starting optimization for resnet18 on subset_2
+Subset 2, Model resnet18: Best Accuracy = 0.4994
+
+Starting optimization for resnet152 on subset_2
+Subset 2, Model resnet152: Best Accuracy = 0.3997
+
+Starting optimization for vgg11 on subset_2
+Subset 2, Model vgg11: Best Accuracy = 0.5134
+
+Starting optimization for vgg19 on subset_2
+Subset 2, Model vgg19: Best Accuracy = 0.4401
+
+Starting optimization for densenet121 on subset_2
+Subset 2, Model densenet121: Best Accuracy = 0.5184
+
+Starting optimization for densenet161 on subset_2
+Subset 2, Model densenet161: Best Accuracy = 0.5003
+
+Evaluating models on ./evaluation-2/datasets/subsets/subset_3
+
+Starting optimization for resnet18 on subset_3
+Subset 3, Model resnet18: Best Accuracy = 0.5157
+
+Starting optimization for resnet152 on subset_3
+Subset 3, Model resnet152: Best Accuracy = 0.4768
+
+Starting optimization for vgg11 on subset_3
+Subset 3, Model vgg11: Best Accuracy = 0.5203
+
+Starting optimization for vgg19 on subset_3
+Subset 3, Model vgg19: Best Accuracy = 0.5178
+
+Starting optimization for densenet121 on subset_3
+Subset 3, Model densenet121: Best Accuracy = 0.5651
+
+Starting optimization for densenet161 on subset_3
+Subset 3, Model densenet161: Best Accuracy = 0.5483
+
+Evaluating models on ./evaluation-2/datasets/subsets/subset_4
+
+Starting optimization for resnet18 on subset_4
+Subset 4, Model resnet18: Best Accuracy = 0.5385
+
+Starting optimization for resnet152 on subset_4
+Subset 4, Model resnet152: Best Accuracy = 0.5048
+
+Starting optimization for vgg11 on subset_4
+Subset 4, Model vgg11: Best Accuracy = 0.5433
+
+Starting optimization for vgg19 on subset_4
+Subset 4, Model vgg19: Best Accuracy = 0.4569
+
+Starting optimization for densenet121 on subset_4
+Subset 4, Model densenet121: Best Accuracy = 0.5743
+
+Starting optimization for densenet161 on subset_4
+Subset 4, Model densenet161: Best Accuracy = 0.5982
+
+Evaluating models on ./evaluation-2/datasets/subsets/subset_5
+
+Starting optimization for resnet18 on subset_5
+Subset 5, Model resnet18: Best Accuracy = 0.5786
+
+Starting optimization for resnet152 on subset_5
+Subset 5, Model resnet152: Best Accuracy = 0.5461
+
+Starting optimization for vgg11 on subset_5
+Subset 5, Model vgg11: Best Accuracy = 0.5912
+
+Starting optimization for vgg19 on subset_5
+Subset 5, Model vgg19: Best Accuracy = 0.5844
+
+Starting optimization for densenet121 on subset_5
+Subset 5, Model densenet121: Best Accuracy = 0.6159
+
+Starting optimization for densenet161 on subset_5
+Subset 5, Model densenet161: Best Accuracy = 0.6183
+
+Evaluating models on ./evaluation-2/datasets/subsets/subset_6
+
+Starting optimization for resnet18 on subset_6
+Subset 6, Model resnet18: Best Accuracy = 0.5815
+
+Starting optimization for resnet152 on subset_6
+Subset 6, Model resnet152: Best Accuracy = 0.5754
+
+Starting optimization for vgg11 on subset_6
+Subset 6, Model vgg11: Best Accuracy = 0.6157
+
+Starting optimization for vgg19 on subset_6
+Subset 6, Model vgg19: Best Accuracy = 0.6054
+
+Starting optimization for densenet121 on subset_6
+Subset 6, Model densenet121: Best Accuracy = 0.6177
+
+Starting optimization for densenet161 on subset_6
+Subset 6, Model densenet161: Best Accuracy = 0.6209
+
+Evaluating models on ./evaluation-2/datasets/subsets/subset_7
+
+Starting optimization for resnet18 on subset_7
+Subset 7, Model resnet18: Best Accuracy = 0.5972
+
+Starting optimization for resnet152 on subset_7
+Subset 7, Model resnet152: Best Accuracy = 0.5833
+
+Starting optimization for vgg11 on subset_7
+Subset 7, Model vgg11: Best Accuracy = 0.6146
+
+Starting optimization for vgg19 on subset_7
+Subset 7, Model vgg19: Best Accuracy = 0.5292
+
+Starting optimization for densenet121 on subset_7
+Subset 7, Model densenet121: Best Accuracy = 0.6331
+
+Starting optimization for densenet161 on subset_7
+Subset 7, Model densenet161: Best Accuracy = 0.6461
+
+Evaluating models on ./evaluation-2/datasets/subsets/subset_8
+
+Starting optimization for resnet18 on subset_8
+Subset 8, Model resnet18: Best Accuracy = 0.6181
+
+Starting optimization for resnet152 on subset_8
+Subset 8, Model resnet152: Best Accuracy = 0.6121
+
+Starting optimization for vgg11 on subset_8
+Subset 8, Model vgg11: Best Accuracy = 0.6419
+
+Starting optimization for vgg19 on subset_8
+Subset 8, Model vgg19: Best Accuracy = 0.6097
+
+Starting optimization for densenet121 on subset_8
+Subset 8, Model densenet121: Best Accuracy = 0.6469
+
+Starting optimization for densenet161 on subset_8
+Subset 8, Model densenet161: Best Accuracy = 0.6584
+
+Evaluating models on ./evaluation-2/datasets/subsets/subset_9
+
+Starting optimization for resnet18 on subset_9
+Subset 9, Model resnet18: Best Accuracy = 0.6339
+
+Starting optimization for resnet152 on subset_9
+Subset 9, Model resnet152: Best Accuracy = 0.6151
+
+Starting optimization for vgg11 on subset_9
+Subset 9, Model vgg11: Best Accuracy = 0.6463
+
+Starting optimization for vgg19 on subset_9
+Subset 9, Model vgg19: Best Accuracy = 0.6471
+
+Starting optimization for densenet121 on subset_9
+Subset 9, Model densenet121: Best Accuracy = 0.6447
+
+Starting optimization for densenet161 on subset_9
+Subset 9, Model densenet161: Best Accuracy = 0.6663
+
+Evaluating models on ./evaluation-2/datasets/subsets/subset_10
+
+Starting optimization for resnet18 on subset_10
+Subset 10, Model resnet18: Best Accuracy = 0.6326
+
+Starting optimization for resnet152 on subset_10
+Subset 10, Model resnet152: Best Accuracy = 0.6067
+
+Starting optimization for vgg11 on subset_10
+Subset 10, Model vgg11: Best Accuracy = 0.6705
+
+Starting optimization for vgg19 on subset_10
+Subset 10, Model vgg19: Best Accuracy = 0.6570
+
+Starting optimization for densenet121 on subset_10
+Subset 10, Model densenet121: Best Accuracy = 0.6659
+
+Starting optimization for densenet161 on subset_10
+Subset 10, Model densenet161: Best Accuracy = 0.6735
+
+Evaluating models on ./evaluation-2/datasets/subsets/subset_11
+
+Starting optimization for resnet18 on subset_11
+Subset 11, Model resnet18: Best Accuracy = 0.6357
+
+Starting optimization for resnet152 on subset_11
+Subset 11, Model resnet152: Best Accuracy = 0.6341
+
+Starting optimization for vgg11 on subset_11
+Subset 11, Model vgg11: Best Accuracy = 0.6786
+
+Starting optimization for vgg19 on subset_11
+Subset 11, Model vgg19: Best Accuracy = 0.6632
+
+Starting optimization for densenet121 on subset_11
+Subset 11, Model densenet121: Best Accuracy = 0.6702
+
+Starting optimization for densenet161 on subset_11
+Subset 11, Model densenet161: Best Accuracy = 0.6792
+
+Evaluating models on ./evaluation-2/datasets/subsets/subset_12
+
+Starting optimization for resnet18 on subset_12
+Subset 12, Model resnet18: Best Accuracy = 0.6457
+
+Starting optimization for resnet152 on subset_12
+Subset 12, Model resnet152: Best Accuracy = 0.6410
+
+Starting optimization for vgg11 on subset_12
+Subset 12, Model vgg11: Best Accuracy = 0.6799
+
+Starting optimization for vgg19 on subset_12
+Subset 12, Model vgg19: Best Accuracy = 0.6648
+
+Starting optimization for densenet121 on subset_12
+Subset 12, Model densenet121: Best Accuracy = 0.6754
+
+Starting optimization for densenet161 on subset_12
+Subset 12, Model densenet161: Best Accuracy = 0.6837
+
+Evaluating models on ./evaluation-2/datasets/subsets/subset_13
+
+Starting optimization for resnet18 on subset_13
+Subset 13, Model resnet18: Best Accuracy = 0.6639
+
+Starting optimization for resnet152 on subset_13
+Subset 13, Model resnet152: Best Accuracy = 0.6407
+
+Starting optimization for vgg11 on subset_13
+Subset 13, Model vgg11: Best Accuracy = 0.6841
+
+Starting optimization for vgg19 on subset_13
+Subset 13, Model vgg19: Best Accuracy = 0.6878
+
+Starting optimization for densenet121 on subset_13
+Subset 13, Model densenet121: Best Accuracy = 0.6869
+
+Starting optimization for densenet161 on subset_13
+Subset 13, Model densenet161: Best Accuracy = 0.6979
+
+Evaluating models on ./evaluation-2/datasets/subsets/subset_14
+
+Starting optimization for resnet18 on subset_14
+Subset 14, Model resnet18: Best Accuracy = 0.6563
+
+Starting optimization for resnet152 on subset_14
+Subset 14, Model resnet152: Best Accuracy = 0.6578
+
+Starting optimization for vgg11 on subset_14
+Subset 14, Model vgg11: Best Accuracy = 0.6770
+
+Starting optimization for vgg19 on subset_14
+Subset 14, Model vgg19: Best Accuracy = 0.6952
+
+Starting optimization for densenet121 on subset_14
+Subset 14, Model densenet121: Best Accuracy = 0.6927
+
+Starting optimization for densenet161 on subset_14
+Subset 14, Model densenet161: Best Accuracy = 0.6990
+
+Evaluating models on ./evaluation-2/datasets/subsets/subset_15
+
+Starting optimization for resnet18 on subset_15
+Subset 15, Model resnet18: Best Accuracy = 0.6589
+
+Starting optimization for resnet152 on subset_15
+Subset 15, Model resnet152: Best Accuracy = 0.6651
+
+Starting optimization for vgg11 on subset_15
+Subset 15, Model vgg11: Best Accuracy = 0.6744
+
+Starting optimization for vgg19 on subset_15
+Subset 15, Model vgg19: Best Accuracy = 0.6827
+
+Starting optimization for densenet121 on subset_15
+Subset 15, Model densenet121: Best Accuracy = 0.6857
+
+Starting optimization for densenet161 on subset_15
+Subset 15, Model densenet161: Best Accuracy = 0.7026
+
+Evaluating models on ./evaluation-2/datasets/subsets/subset_16
+
+Starting optimization for resnet18 on subset_16
+Subset 16, Model resnet18: Best Accuracy = 0.6493
+
+Starting optimization for resnet152 on subset_16
+Subset 16, Model resnet152: Best Accuracy = 0.6683
+
+Starting optimization for vgg11 on subset_16
+Subset 16, Model vgg11: Best Accuracy = 0.6851
+
+Starting optimization for vgg19 on subset_16
+Subset 16, Model vgg19: Best Accuracy = 0.7069
+
+Starting optimization for densenet121 on subset_16
+Subset 16, Model densenet121: Best Accuracy = 0.6995
+
+Starting optimization for densenet161 on subset_16
+Subset 16, Model densenet161: Best Accuracy = 0.7033
+
+Evaluating models on ./evaluation-2/datasets/subsets/subset_17
+
+Starting optimization for resnet18 on subset_17
+Subset 17, Model resnet18: Best Accuracy = 0.6809
+
+Starting optimization for resnet152 on subset_17
+Subset 17, Model resnet152: Best Accuracy = 0.6645
+
+Starting optimization for vgg11 on subset_17
+Subset 17, Model vgg11: Best Accuracy = 0.6956
+
+Starting optimization for vgg19 on subset_17
+Subset 17, Model vgg19: Best Accuracy = 0.7068
+
+Starting optimization for densenet121 on subset_17
+Subset 17, Model densenet121: Best Accuracy = 0.6956
+
+Starting optimization for densenet161 on subset_17
+Subset 17, Model densenet161: Best Accuracy = 0.7143
+
+Evaluating models on ./evaluation-2/datasets/subsets/subset_18
+
+Starting optimization for resnet18 on subset_18
+Subset 18, Model resnet18: Best Accuracy = 0.6808
+
+Starting optimization for resnet152 on subset_18
+Subset 18, Model resnet152: Best Accuracy = 0.6799
+
+Starting optimization for vgg11 on subset_18
+Subset 18, Model vgg11: Best Accuracy = 0.7097
+
+Starting optimization for vgg19 on subset_18
+Subset 18, Model vgg19: Best Accuracy = 0.7127
+
+Starting optimization for densenet121 on subset_18
+Subset 18, Model densenet121: Best Accuracy = 0.7025
+
+Starting optimization for densenet161 on subset_18
+Subset 18, Model densenet161: Best Accuracy = 0.7147
+
+Evaluating models on ./evaluation-2/datasets/subsets/subset_19
+
+Starting optimization for resnet18 on subset_19
+Subset 19, Model resnet18: Best Accuracy = 0.6776
+
+Starting optimization for resnet152 on subset_19
+Subset 19, Model resnet152: Best Accuracy = 0.6809
+
+Starting optimization for vgg11 on subset_19
+Subset 19, Model vgg11: Best Accuracy = 0.7135
+
+Starting optimization for vgg19 on subset_19
+Subset 19, Model vgg19: Best Accuracy = 0.7208
+
+Starting optimization for densenet121 on subset_19
+Subset 19, Model densenet121: Best Accuracy = 0.7113
+
+Starting optimization for densenet161 on subset_19
+Subset 19, Model densenet161: Best Accuracy = 0.7120
+
+Evaluating models on ./evaluation-2/datasets/subsets/subset_20
+
+Starting optimization for resnet18 on subset_20
+Subset 20, Model resnet18: Best Accuracy = 0.6798
+
+Starting optimization for resnet152 on subset_20
+Subset 20, Model resnet152: Best Accuracy = 0.6687
+
+Starting optimization for vgg11 on subset_20
+Subset 20, Model vgg11: Best Accuracy = 0.7131
+
+Starting optimization for vgg19 on subset_20
+Subset 20, Model vgg19: Best Accuracy = 0.6940
+
+Starting optimization for densenet121 on subset_20
+Subset 20, Model densenet121: Best Accuracy = 0.7181
+
+Starting optimization for densenet161 on subset_20
+Subset 20, Model densenet161: Best Accuracy = 0.7216
